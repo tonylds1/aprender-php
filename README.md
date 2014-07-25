@@ -1,4 +1,4 @@
-aprender-php
+aprender-php [![endorse](https://api.coderwall.com/tarcnux/endorsecount.png)](https://coderwall.com/tarcnux)
 ============
 
 Coletânia de estudos da linguagem PHP
