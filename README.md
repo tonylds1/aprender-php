@@ -9,6 +9,9 @@ Básico de PHP
 PHP OO
 -----
 
+O repositório [PHP_OO](https://github.com/tarcnux/aprender-php/tree/master/PHP_OO) é uma releitura do antigo 
+curso da [iMastersPRO](http://pro.imasters.com.br/online/cursos/php-orientado-objeto/)
+
 MVC
 ----
 
