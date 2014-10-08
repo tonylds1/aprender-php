@@ -26,6 +26,9 @@
         $sicrano->digaOi();
         echo "Não pertenço a um objeto e meu nome é ", PessoaEstatica::getNome();
         
+        echo "<pre> [ D E B U G ]: <br />";
+        var_dump($fulano,$beltrano,$sicrano,$ecrano);
+        echo "</pre>";
         ?>
     </body>
 </html>
