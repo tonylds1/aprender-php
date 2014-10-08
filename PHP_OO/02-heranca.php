@@ -13,9 +13,6 @@ and open the template in the editor.
         <?php
         require './inc/Config.inc.php';
         
-        
-        
-        
         $pai = new Pai('Gilberlon');
         $filho = new Filho('Francislei');
         
