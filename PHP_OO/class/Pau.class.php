@@ -4,15 +4,10 @@
  *
  * @author Tarcnux
  */
-class Pau implements iProjetil,  iAlvo{
-    
-    public function atira(iAlvo $alvo) {
-        $alvo->acerta($this);
-    }
-    
+class Pau extends ProjetilAbstrato implements iAlvo{
+       
     public function acerta(iProjetil $projetil) {
         echo "<h1>Poof!</h1>";
     }
-
 
 }

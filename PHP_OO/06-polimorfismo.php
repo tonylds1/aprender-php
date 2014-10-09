@@ -26,8 +26,13 @@ and open the template in the editor.
         $pedra = new Pedra;
         $joaozinho->atira($pedra, $pau);
         
-        //Mas também pode ser projétil e alvo
+        //Mas também pode ser projétil e alvo, polimorfismo
         $joaozinho->atira($pau, $pau);
+        
+        $bola = new Bola;
+        $gol = new Gol;
+        
+        $joaozinho->atira($bola, $gol);
         ?>
     </body>
 </html>
