@@ -9,7 +9,7 @@
         <div>
         
         <?php
-          list($width, $height, $type, $attr) = getimagesize("url/to/image.jpg"); 
+          list($width, $height, $type, $attr) = getimagesize("_image.jpg"); 
         ?>
             <table>
               <th>
